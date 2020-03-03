@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ViewController.tableView(_:cellForRowAt:):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "index">
+            </PersistentString>
+            <PersistentString
+               value = "indexPath.row">
+            </PersistentString>
+            <PersistentString
+               value = "page">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.isLastestRow(row:):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "(row == titleTableView.numberOfRows(inSection: 0) - 1)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PagingManager.getList():PagingManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "endIndex">
+            </PersistentString>
+            <PersistentString
+               value = "rowIndex">
+            </PersistentString>
+            <PersistentString
+               value = "(endAscii-startAscii+1)">
+            </PersistentString>
+            <PersistentString
+               value = "(endAscii-startAscii+1)%page">
+            </PersistentString>
+            <PersistentString
+               value = "page">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
